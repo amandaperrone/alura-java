@@ -26,5 +26,7 @@ Códigos utilizados para estudo nos cursos da Java da Alura
 * Classe mãe e classe filho (com extends)
 * Classes 'protected'
 * Referência super
+* Polimorfismo
+* Anotação @Override
 
 🛠️ Curso em andamento
