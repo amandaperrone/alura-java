@@ -28,5 +28,7 @@ Códigos utilizados para estudo nos cursos da Java da Alura
 * Referência super
 * Polimorfismo
 * Anotação @Override
+* Herança
+* Interface
 
 🛠️ Curso em andamento
